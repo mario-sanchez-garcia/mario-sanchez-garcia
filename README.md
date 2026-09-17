@@ -2,7 +2,7 @@
 
 Business Analytics & BBA double-degree student at IE University, interested in building technology at the intersection of AI, data, product and business.
 
-I'm the Co-founder & Tech Lead of [Kairo](https://kairo-pau.com), an AI-powered platform for Spanish university entrance exam preparation. I work across product development and technical implementation, including AI workflows, databases, privacy and security, payments, rate limiting and production reliability.
+I'm the Co-founder & Tech Lead of [Kairo](https://kairo-pau.com), an AI-powered platform for Spanish university entrance exam preparation. I lead product development and technical implementation, including AI workflows, databases, privacy and security, payments, rate limiting and production reliability.
 
 ## What I'm working on
 
