@@ -20,7 +20,7 @@ I'm the Co-founder & Tech Lead of [Kairo](https://kairo-pau.com), an AI-powered 
 - **Kairo** — Co-founder & Tech Lead
 - **Telefónica España × IE University** — Innovation Lab, Open Innovation & CVC Strategy
 - **Ferrero Group × IE University** — Technology Lab, Data Analytics
-- **1st Place — IE Programming Competition "A Viz to Remember"**
+- **1st Place — IE Data Analytics & Visualisation Competition "A Viz to Remember"**
 
 ## Connect
 
